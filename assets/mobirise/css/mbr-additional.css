@@ -939,3 +939,49 @@
 #msg-box5-5v .lead P {
   text-align: right;
 }
+
+
+
+
+
+#footer1-6d P {
+  color: #bec7bb;
+  font-size: 13px;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#dropdown-menu-6e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-6e .navbar-brand a {
+  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#dropdown-menu-6e .nav .link,
+#dropdown-menu-6e .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#dropdown-menu-6e .navbar,
+#dropdown-menu-6e .dropdown-menu {
+  background: #f2f2f2;
+}
+#dropdown-menu-6e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-6e .dropdown-menu a:hover,
+#dropdown-menu-6e .dropdown-menu a:focus {
+  background: #e8e8e8;
+}
+#dropdown-menu-6e .navbar-toggler {
+  color: #000000;
+}
+#header3-6f H3 {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#header3-6g H3 {
+  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  text-align: center;
+}
