@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio ",
-    "currentPage": "thesis.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2984,8 +2984,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-7374.jpg",
               "link": "textiel1.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
